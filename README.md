@@ -5,7 +5,8 @@ If your can't use other tool or libary in your office, you can use and modify th
 
 ## Getting Started
 
-
+![image](https://github.com/swwad/Excel2WikiTable/blob/master/01.png)
+![image](https://github.com/swwad/Excel2WikiTable/blob/master/02.png)
 
 ## License
 
